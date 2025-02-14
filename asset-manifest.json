@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34e5e49d.css",
+    "main.js": "/static/js/main.06185231.js",
+    "static/media/pexels-alex-staudinger-1732414.jpg": "/static/media/pexels-alex-staudinger-1732414.b653d3234bbb06c26a1f.jpg",
+    "static/media/pexels-binyamin-mellish-186078.png": "/static/media/pexels-binyamin-mellish-186078.75b5d52bc068ebba8786.png",
+    "static/media/background.png": "/static/media/background.1f85623d06212e6d3ed4.png",
+    "static/media/pexels-pixabay-271816.jpg": "/static/media/pexels-pixabay-271816.2d2e1749c12ea2cd56f5.jpg",
+    "static/media/2fa.gif": "/static/media/2fa.e3da2c8d321523f05b8c.gif",
+    "static/media/waring-03.webp": "/static/media/waring-03.7d77588f436c6958b86c.webp",
+    "static/media/waring.png": "/static/media/waring.f1ebfd88a8d439c9a344.png",
+    "static/media/favicon.png": "/static/media/favicon.506c6b264bbcf0f9e86c.png",
+    "static/media/logo.png": "/static/media/logo.d42fe85024cd6936fb43.png",
+    "static/media/codefa.jpg": "/static/media/codefa.6d3b4c7b8474a1ee8fce.jpg",
+    "static/media/robot.jpg": "/static/media/robot.ff4c3a1e6d1f32fb5a6b.jpg",
+    "static/media/meta.jpg": "/static/media/meta.3b2dfb80d3a042913c7d.jpg",
+    "index.html": "/index.html",
+    "main.34e5e49d.css.map": "/static/css/main.34e5e49d.css.map",
+    "main.06185231.js.map": "/static/js/main.06185231.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34e5e49d.css",
+    "static/js/main.06185231.js"
+  ]
+}
